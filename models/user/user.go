@@ -1,6 +1,7 @@
 package user
 
-import "github.com/shoelfikar/finpay-models/general"
+import "github.com/shoelfikar/finpay/models/general"
+
 
 type User struct {
 	ID string `json:"id"`
